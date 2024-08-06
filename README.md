@@ -1,9 +1,6 @@
 ## Contribution Stats
 
 <a href="https://github.com/jaik/jaik/blob/master/README.md">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jaik&show_icons=true&count_private=true" /></a>
-
-<a href="https://github.com/jaik/jaik/blob/master/README.md">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaik&hide=html,python,robotframework,css,javascript&layout=compact" />
 </a>
 
